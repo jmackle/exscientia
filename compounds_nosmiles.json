@@ -95,8 +95,7 @@
 			}
 		]
 	},
-	{
-		"compound_id": 694811,
+	{		
 		"smiles": "CCNC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c3cc(OC)ccc3n4c(C)nnc14",
 		"molecular_weight": 423.89538,
 		"ALogP": 3.288,
