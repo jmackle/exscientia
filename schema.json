@@ -1,9 +1,9 @@
 {
 	"$id": "https://exscientia.ai/code_tests/compounds.json",
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"description": "A small data set of compounds and assay results extracted from ChEMBL",
-	"items": {	
+	"description": "A small data set of compounds and assay results extracted from ChEMBL",		
 	"type": "array",
+	"items": {
 	"required": [
 		"compound_id",
 		"smiles"
